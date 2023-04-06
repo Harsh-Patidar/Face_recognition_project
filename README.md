@@ -1,6 +1,14 @@
-# Face_recognition_project
-Face Detection and Face Recognition System
-Face recognition systems are currently associated with many top technological companies and industries making the work of face recognition easier. 
-The use of python programming and OpenCV makes it an easier and handy tool or system which can be made by anyone according to their requirement.
-The proposed system discussed in this project will be helpful for many as it is user friendly and cost efficient system.
-Hence by the use of python and OpenCV the face recognition system can be designed for various purposes..
+# Facial Expression Recognition And Face Detection
+
+GOAL_
+
+The goal of facial expression recognition and face detection is to develop computer algorithms that can identify and analyze facial features in images or videos. Facial expression recognition aims to identify the emotions or moods being conveyed by an individual's facial expressions, while face detection is focused on identifying and localizing faces within an image or video.
+
+PROCESS_
+
+To develop a facial expression recognition or face detection system, various computer vision techniques can be used and Technology like keras, Image Processing Libraries-OpenCV are used
+
+DETAILS OF FEATURES_
+
+Important features of facial expression recognition and face detection systems include their accuracy, speed, and ability to work with a variety of image and video formats. Additionally, these systems may need to be able to work with different lighting conditions, facial poses, and facial expressions to provide reliable results, These systems may find applications in fields such as human-computer interaction, security, and healthcare.
+
